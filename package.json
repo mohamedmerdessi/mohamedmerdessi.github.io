@@ -1,8 +1,8 @@
 {
   "private": true,
   "name": "Mohamed's Portfolio",
-  "homepage": "https://mohamedmerdessi.github.io",
-  "version": "0.1.0",
+  "homepage": "https://mohamedmerdessi.github.io/mohamedmerdessi.github.io",
+    "version": "0.1.0",
   "scripts": {
     "build": "react-scripts build",
     "predeploy": "set NODE_OPTIONS=--openssl-legacy-provider&&npm run build",
