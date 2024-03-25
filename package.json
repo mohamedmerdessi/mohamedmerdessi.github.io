@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "Mohamed's Portfolio",
-  "homepage": "https://mohamedmerdessi.github.io/mohamedmerdessi.github.io",
+  "homepage": "https://mohamedmerdessi.github.io/portfolio",
     "version": "0.1.0",
   "scripts": {
     "build": "react-scripts build",
