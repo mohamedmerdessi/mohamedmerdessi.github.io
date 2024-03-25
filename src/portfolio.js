@@ -272,13 +272,7 @@ const competitiveSites = {
         color: "#323754",
       },
     },
-    {
-      siteName: "Kaggle",
-      iconifyClassname: "simple-icons:kaggle",
-      style: {
-        color: "#20BEFF",
-      },
-    },
+    
   ],
 };
 
@@ -380,7 +374,7 @@ const experience = {
           title: "AGILE DEVELOPMENT PROJECT",
           company: "RebootKamp (RBK)",
           company_url: "https://www.rbktunisia.com",
-          logo_path: "legato_logo.png",
+          logo_path: "rbk_logo.jpg",
           duration: "Sep 2023-Jan 2024",
           location: "Tunisia",
           description:
@@ -391,7 +385,7 @@ const experience = {
           title: "WEB DEVELOPER",
           company: "CAFPI TUNISIE          ",
           company_url: "https://www.linkedin.com/company/cafpi-groupe/?originalSubdomain=fr",
-          logo_path: "muffito_logo.png",
+          logo_path: "cafpi_logo.jpg",
           duration: "Apr 2022-Aug 2023          ",
           location: "Tunisia",
           description:"Developed 25 RESTful APIs using Node.js, Express.js, and Sequelize, resulting in a 30% improvement in data communication and a 40% enhancement in server-client integration. Translated 10 complex design mockups into functional web elements, achieving 95% design fidelity and meeting 100% user experience standards. Implemented role-based access control with JWT and Sequelize, creating 5 user roles with a 99% security level and securing 100% user permissions. Additionally, resolved 20 critical bugs, leading to a 50% enhancement in system stability, through 10 collaborative troubleshooting and debugging sessions.",
@@ -401,7 +395,7 @@ const experience = {
           title: "GAME SERVER DEVELOPMENT          ",
           company: "FIVEM",
           company_url: "https://fivem.net",
-          logo_path: "freecopy_logo.png",
+          logo_path: "fivem_logo.png",
           duration: "Jan 2020-Mar 2022          ",
           location: "tunisia",
           description:"Designed and implemented FiveM game servers in Lua, developing 3 servers with a total of 5000 lines of Lua code. Established server infrastructure and optimized settings, resulting in an 80% optimization and a 30% improvement in uptime. Identified and resolved server-side issues, resolving 50 issues with an average resolution time of 1 hour. Collaborated on bug resolution, resulting in the resolution of 20 bugs and a 50% improvement in system stability.",
@@ -415,7 +409,7 @@ const experience = {
         {
           title: "Vehicle Rental Agent          ",
           company: "Eclipse Car Rental",
-          logo_path: "intel_logo.jpg",
+          logo_path: "eclipse_logo.jpg",
           duration: "6 months",
           location: "Tunisia",
           description:
